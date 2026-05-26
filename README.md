@@ -25,41 +25,9 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
+<img width="754" height="1012" alt="Screenshot 2026-05-26 173137" src="https://github.com/user-attachments/assets/cd092740-3937-4db8-b301-2373c05acee8" />
 
 Remove the directory "my-folder"
-
-## COMMAND AND OUTPUT
-
-
-Create the file Rose.txt
-
-## COMMAND AND OUTPUT
-
-
-Create the file hello.txt using echo and redirection
-
-## COMMAND AND OUTPUT
-
-Copy the file hello.txt into the file hello1.txt
-
-## COMMAND AND OUTPUT
-
-Remove the file hello1.txt
-
-## COMMAND AND OUTPUT
-
-List out the file hello1.txt in the current directory
-
-## COMMAND AND OUTPUT
-
-List out all the associated file extensions 
-
-## COMMAND AND OUTPUT
-
-
-Compare the file hello.txt and rose.txt
-
-## COMMAND AND OUTPUT
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
@@ -69,6 +37,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
+<img width="813" height="320" alt="Screenshot 2026-05-26 173118" src="https://github.com/user-attachments/assets/0e57ea0f-fafd-4bf2-836d-f9f6ec041aa7" />
 
 
 
@@ -83,6 +52,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
+<img width="1244" height="1002" alt="Screenshot 2026-05-26 174051" src="https://github.com/user-attachments/assets/486a96cc-d17d-4b8f-9220-8791d4e5acab" />
 
 
 
@@ -93,6 +63,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
+<img width="891" height="569" alt="Screenshot 2026-05-26 174202" src="https://github.com/user-attachments/assets/4c164233-a0e0-4076-94cc-09d90171a72f" />
 
 
 
@@ -106,6 +77,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+<img width="895" height="255" alt="Screenshot 2026-05-26 174332" src="https://github.com/user-attachments/assets/12b22798-11a8-4d05-8b39-daf9ad2ec0db" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -116,6 +88,8 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+<img width="873" height="675" alt="Screenshot 2026-05-26 174504" src="https://github.com/user-attachments/assets/a2ba84f8-9ec6-47d5-a5bd-4703ee900506" />
+<img width="991" height="684" alt="Screenshot 2026-05-26 175033" src="https://github.com/user-attachments/assets/3254a11c-0083-4362-b152-66b0865e5c98" />
 
 
 
